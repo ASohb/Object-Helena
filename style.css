@@ -1,0 +1,13 @@
+body{
+    color: aliceblue;
+    background: rgb(120, 120, 205);
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+#camera{
+    border: 2px  dashed aliceblue;
+    width: 350px;
+    height: 300px;
+}
